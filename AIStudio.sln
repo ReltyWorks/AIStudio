@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkToCatAI", "TalkToCatAI\TalkToCatAI.csproj", "{19C5A1C4-86B8-4A48-AB17-EBAF7C667EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gomoku", "Gomoku\Gomoku.csproj", "{8031DD9B-9BFE-4F2D-87B9-CD6F38521567}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{19C5A1C4-86B8-4A48-AB17-EBAF7C667EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C5A1C4-86B8-4A48-AB17-EBAF7C667EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C5A1C4-86B8-4A48-AB17-EBAF7C667EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8031DD9B-9BFE-4F2D-87B9-CD6F38521567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8031DD9B-9BFE-4F2D-87B9-CD6F38521567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8031DD9B-9BFE-4F2D-87B9-CD6F38521567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8031DD9B-9BFE-4F2D-87B9-CD6F38521567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
